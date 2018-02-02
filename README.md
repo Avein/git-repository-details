@@ -1,5 +1,5 @@
 # git-repository-details
-Short recruitment task #1
+Simple app in Flask and Python written as recruitment task.
 
 ### Instruction
 Create a simple REST service which will return details of given Github repository. Details should include:
